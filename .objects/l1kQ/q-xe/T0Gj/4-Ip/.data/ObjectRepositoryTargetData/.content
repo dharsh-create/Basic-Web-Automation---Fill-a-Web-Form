@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3uf6XTs8XUSEoJY1kgdUlw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="w3schools.com/html/html_forms.asp" CVScreenId="ad368614-5c18-405e-8a81-0dcb205e6fef" CvElementArea="354, 655, 85, 40" CvTextArea="364, 666, 65, 18" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="357, 657, 81, 37" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='submit' /&gt;" Guid="2bd0134b-167a-42ca-9dc1-e664d9218e3d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='HTML Forms' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2aca7530b1bb118e5b351bcea115d191.png" xmlns="">0PskbfyBiA0O5duuxBsu-zA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

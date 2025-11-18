@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3IG845XYUke7SPsZe1A-8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="w3schools.com/html/html_forms.asp" CVScreenId="d97ef0a0-3afe-4a13-9618-fdcecdbe0a76" CvTextArea="355, 500, 97, 17" CvTextArgument="First name:" CvType="Text" DesignTimeRectangle="357, 495, 95, 27" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='main' tag='LABEL' /&gt;" Guid="2f2efb28-d13a-4627-8fb2-38b2718dbc0c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='HTML Forms' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d97ef0a0-3afe-4a13-9618-fdcecdbe0a76" CvElementArea="354, 522, 239, 41" CvType="InputBox" DesignTimeRectangle="357, 524, 235, 37" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='fname' tag='INPUT' /&gt;" Guid="0f7ad350-b288-4090-9f57-0502b17a872b" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1ecea61a42c6adbabb8bf31ee73fd806.png" xmlns="">0TLAboSnLXEiOWFZhEeWUug</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

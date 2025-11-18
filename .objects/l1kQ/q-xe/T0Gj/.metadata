@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome HTML Forms",
+  "Type": "Screen",
+  "Id": "T0GjVIP93kCKxvXojneJSg",
+  "Reference": "B7sNvMdIfEKTF_wd97-NgA/T0GjVIP93kCKxvXojneJSg",
+  "ParentRef": "B7sNvMdIfEKTF_wd97-NgA/q-xetFjXgU6UvUk4ZGx9ng",
+  "Created": "2025-11-03T09:37:03.2616033Z",
+  "Updated": "2025-11-03T09:37:03.2616033Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

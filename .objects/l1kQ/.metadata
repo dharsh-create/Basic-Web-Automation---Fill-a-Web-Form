@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome HTML Forms",
+  "Type": "App",
+  "Id": "l1kQsU8pNk-JfTVtpY-9UA",
+  "Reference": "B7sNvMdIfEKTF_wd97-NgA/l1kQsU8pNk-JfTVtpY-9UA",
+  "Created": "2025-11-03T09:37:02.9908468Z",
+  "Updated": "2025-11-03T09:37:02.9908468Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
